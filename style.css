@@ -1,0 +1,208 @@
+html {
+    scroll-behavior: smooth;
+}
+html {
+    font-size: clamp(14px, 1vw, 20px);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.title1 {
+    font-size: clamp(2rem, 5vw, 5rem);
+}
+
+.title3,
+.title5,
+.title7,
+.title9 {
+    font-size: clamp(1.5rem, 4vw, 4rem);
+}
+
+
+.img1{
+    width: 100%;
+    height: auto;
+    top: 0;
+}
+body {
+    background-color: rgba(0, 0, 0, 0.929);
+    color: white;
+    text-align: left;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.logo {
+    width: clamp(100px, 12vw, 250px);
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    height: auto
+}
+.title1 {
+    margin-top: -500px;
+    font-size: clamp(2rem, 5vw, 5rem);
+    padding-left: 230px;
+}
+
+.title2 {
+    margin-top: -50px;
+    font-size: 130%;
+    padding-left: 230px;
+}
+.img2 {
+    width: 70%;
+    position: absolute;
+    top: 1000px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.title3 {
+    margin-top: 1000px;
+    font-size: 400%;
+    padding-left: 0%;
+    text-align: center;
+}
+.title4 {
+    margin-top: -30px;
+    font-size: 100%;
+    padding-left: 40px;
+    text-align: center;
+    color:gray;
+}
+.img3 {
+    padding-left: 230px;
+    position: absolute;
+    top: 700px;
+    transition: 0.3s;
+}
+.img3:hover {
+  filter: brightness(70%);
+}
+.img4 {
+    padding-left: 640px;
+    position: relative;
+    top: 20px;
+    transition: 0.3s;
+}
+.img4:hover {
+  filter: brightness(70%);
+}
+.img5 {
+     width: 70%;
+    position: absolute;
+    top: 2050px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.title5 {
+    position: absolute;
+    top: 287%;
+    font-size: 400%;
+    left: 30%;
+}
+.title6 {
+    font-size: 100%;
+    position:absolute;
+    top: 302%;
+    left: 32%;
+    color:gray;
+}
+.img6 {
+    width: 70%;
+    position: absolute;
+    top: 2950px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.title7 {
+   position: absolute;
+   top: 385%;
+   font-size: 400%;
+   left: 37%;
+}
+.title8 {
+    position: absolute;
+    top: 400%;
+    left: 35%;
+    color:gray;
+    font-size: 100%;
+}
+.img7 {
+    width: 15%;
+    position: absolute;
+    top: 407%;
+    left: 43%;
+    transition: 0.3s;
+}
+.img7:hover {
+  filter: brightness(70%);
+}
+.img8 {
+    width: 70%;
+    position: absolute;
+    top: 3900px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.title9 {
+    position: absolute;
+    top: 490%;
+    font-size: 400%;
+    left: 25%;
+    text-align: center;
+}
+.title10 {
+    position: absolute;
+    top: 515%;
+    left: 30%;
+    color:gray;
+    font-size: 100%;
+    text-align: center;
+}
+.img9 {
+    left: 640px;
+    position: absolute;
+    top: 4900px;
+    transition: 0.3s;
+}
+.img9:hover {
+  filter: brightness(70%);
+}
+.img10 {
+    position: absolute;
+    top: 550%;
+    left: 0%;
+    width: 100%;
+}
+.img11 {
+    position: absolute;
+    top: 5%;
+    left: 18%;
+    width: 80%;
+}
+.img12 {
+    position: absolute;
+    top: 9%;
+    left: 84%;
+    width: 4.5%;
+}
+.img13 {
+    position: absolute;
+    top: 9%;
+    width: 6.1%;
+    left: 50.1%;
+}
+.img3 {
+    transition: 0.3s;
+}
+.img14 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    filter: invert(100%);
+    
+}
